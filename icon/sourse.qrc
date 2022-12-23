@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>v1.png</file>
+    <file>v2.png</file>
+    <file>log-out.png</file>
+    <file>pause.png</file>
+    <file>video.png</file>
+    <file>arrow-left-circle.png</file>
+    <file>arrow-right-circle.png</file>
+    <file>camera.png</file>
+    <file>check-circle.png</file>
+    <file>image.png</file>
+    <file>instagram.png</file>
+    <file>loader.png</file>
+    <file>play.png</file>
+    <file>background.png</file>
+    <file>bird.png</file>
+    <file>blued.jpg</file>
+    <file>blued.png</file>
+    <file>button1.png</file>
+    <file>button2.png</file>
+    <file>button3.png</file>
+    <file>button4.png</file>
+    <file>button5.png</file>
+    <file>button6.png</file>
+    <file>defeat.png</file>
+    <file>die.png</file>
+    <file>pig.png</file>
+  </qresource>
+</RCC>
